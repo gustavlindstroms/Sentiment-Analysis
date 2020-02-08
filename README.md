@@ -43,7 +43,7 @@ counting_words %>%
   coord_flip() +
   labs(y = "Sentiment Score")
 
-}
+
 ```
 
 
